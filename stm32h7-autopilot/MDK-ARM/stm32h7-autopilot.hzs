@@ -1,0 +1,103 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="stm32h7-autopilot" radix="16" sizeText="" addressText=""/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="stm32h7-autopilot" radix="16" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="stm32h7-autopilot" radix="16" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="stm32h7-autopilot" radix="16" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="stm32h7-autopilot"/>
+  <ProjectSessionItem path="stm32h7-autopilot;stm32h7-autopilot"/>
+  <ProjectSessionItem path="stm32h7-autopilot;stm32h7-autopilot;Application/User"/>
+  <ProjectSessionItem path="stm32h7-autopilot;stm32h7-autopilot;cpp"/>
+  <ProjectSessionItem path="stm32h7-autopilot;stm32h7-autopilot;Drivers/STM32H7xx_HAL_Driver"/>
+  <ProjectSessionItem path="stm32h7-autopilot;stm32h7-autopilot;Middlewares/FreeRTOS"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="stm32h7-autopilot" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="stm32h7-autopilot" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="stm32h7-autopilot" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="stm32h7-autopilot" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <TargetWindow programLoadAddress="" programSize="" uploadStartAddress="" programMemoryInterface="" programFileName="" uploadMemoryInterface="" programFileType="" uploadFileName="" uploadFileType="" programAction="" uploadSize=""/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Twice a Second">
+   <Watchpoint numelements="26" expression="spi_tx" evalMode="2" name="spi_tx" radix="16" linenumber="0" filename="../MDK-ARM" list=""/>
+   <Watchpoint numelements="26" expression="spi_rx" evalMode="2" name="spi_rx" radix="16" linenumber="0" filename="../MDK-ARM" list=""/>
+   <Watchpoint numelements="3" expression="acc" evalMode="2" name="acc" radix="10" linenumber="0" filename="../MDK-ARM" list=""/>
+   <Watchpoint numelements="3" expression="gyro" evalMode="2" name="gyro" radix="10" linenumber="0" filename="../MDK-ARM" list=""/>
+   <Watchpoint numelements="3" expression="counter" evalMode="2" name="counter" radix="10" linenumber="0" filename="../MDK-ARM" list=""/>
+   <Watchpoint numelements="0" expression="time_umeyama_fast" evalMode="0" name="time_umeyama_fast" radix="10" linenumber="0" filename="../MDK-ARM" list=""/>
+   <Watchpoint numelements="0" expression="time_umeyama_eigen" evalMode="0" name="time_umeyama_eigen" radix="10" linenumber="0" filename="../MDK-ARM" list=""/>
+   <Watchpoint numelements="0" expression="time_FA3R_int" evalMode="0" name="time_FA3R_int" radix="10" linenumber="0" filename="../MDK-ARM" list=""/>
+   <Watchpoint numelements="0" expression="time_FA3R_double" evalMode="0" name="time_FA3R_double" radix="10" linenumber="0" filename="../MDK-ARM" list=""/>
+   <Watchpoint numelements="0" expression="time_eig3D_eig" evalMode="0" name="time_eig3D_eig" radix="10" linenumber="0" filename="../MDK-ARM" list=""/>
+   <Watchpoint numelements="0" expression="time_eig3D_symbolic" evalMode="0" name="time_eig3D_symbolic" radix="10" linenumber="0" filename="../MDK-ARM" list=""/>
+   <Watchpoint numelements="0" expression="R_umeyama_eigen" evalMode="0" name="R_umeyama_eigen" radix="16" linenumber="0" filename="../MDK-ARM" list=""/>
+   <Watchpoint numelements="0" expression="R_FA3R_int" evalMode="0" name="R_FA3R_int" radix="16" linenumber="0" filename="../MDK-ARM" list=""/>
+   <Watchpoint numelements="0" expression="R_umeyama_fast" evalMode="0" name="R_umeyama_fast" radix="16" linenumber="0" filename="../MDK-ARM" list=""/>
+  </Watches>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="93" useTextEdit="1" useBinaryEdit="0" left="0" path="../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h" selected="0" top="63" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="123" useTextEdit="1" useBinaryEdit="0" left="0" path="../Src/freertos.c" selected="0" top="93" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="109" useTextEdit="1" useBinaryEdit="0" left="0" path="../Src/usb_device.c" selected="0" top="79" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="288" useTextEdit="1" useBinaryEdit="0" left="0" path="/Applications/CrossWorks for ARM 4.1/source/thumb_crt0.s" selected="0" top="273" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="21" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../Library/Rowley Associates Limited/CrossWorks for ARM/v4/packages/targets/STM32/STM32_Startup.s" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="68" useTextEdit="1" useBinaryEdit="0" left="0" path="../Src/usbd_conf.c" selected="0" top="58" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="218" useTextEdit="1" useBinaryEdit="0" left="0" path="../Src/usbd_desc.c" selected="0" top="189" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="310" useTextEdit="1" useBinaryEdit="0" left="0" path="../Src/usbd_cdc_if.c" selected="0" top="301" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="97" useTextEdit="1" useBinaryEdit="0" left="0" path="../Src/stm32h7xx_it.c" selected="0" top="81" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="368" useTextEdit="1" useBinaryEdit="0" left="0" path="../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h" selected="0" top="352" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="9" useTextEdit="1" useBinaryEdit="0" left="0" path="../Src/StartUP.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="662" useTextEdit="1" useBinaryEdit="0" left="0" path="../Src/stm32h7xx_hal_msp.c" selected="0" top="647" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="3202" useTextEdit="1" useBinaryEdit="0" left="0" path="../Middlewares/Third_Party/FreeRTOS/Source/tasks.c" selected="0" top="3186" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="6" useTextEdit="1" useBinaryEdit="0" left="0" path="../cpp/FA3R.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="10" useTextEdit="1" useBinaryEdit="0" left="0" path="../cpp/eig3D.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="67" useTextEdit="1" useBinaryEdit="0" left="0" path="../cpp/eig3D.cpp" selected="0" top="55" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="17" y="142" useTextEdit="1" useBinaryEdit="0" left="0" path="../Src/main.cpp" selected="1" top="135" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="26" useTextEdit="1" useBinaryEdit="0" left="0" path="../Src/micros.c" selected="0" top="13" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="49" useTextEdit="1" useBinaryEdit="0" left="0" path="../Inc/stm32h7xx_it.h" selected="0" top="41" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="646" useTextEdit="1" useBinaryEdit="0" left="0" path="stm32h7-autopilot THUMB Debug/port.asm" selected="0" top="634" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="184" useTextEdit="1" useBinaryEdit="0" left="0" path="../cpp/FA3R.cpp" selected="0" top="194" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="45" useTextEdit="1" useBinaryEdit="0" left="0" path="../cpp/Umeyama.cpp" selected="0" top="33" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="13" useTextEdit="1" useBinaryEdit="0" left="0" path="../Src/StartUP.cpp" selected="0" top="0" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="stm32h7-autopilot" fileDialogDefaultFilter="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.hxx" autoConnectTarget="SEGGER J-Link" buildConfiguration="THUMB Debug" debugSearchFileMap="/Users/zarathustra/Documents/CrossWorks Projects/nuttx_px4_crossworks/Firmware/build_px4fmu-v2_default/px4fmu-v2/NuttX/nuttx/sched/clock/clock_settime.c&#xa;&#xa;/Users/zarathustra/Documents/CrossWorks Projects/nuttx_px4_crossworks/Firmware/build_px4fmu-v2_default/px4fmu-v2/NuttX/nuttx/sched/clock/clock_systimespec.c&#xa;&#xa;/Users/zarathustra/Documents/CrossWorks Projects/nuttx_px4_crossworks/Firmware/build_px4fmu-v2_default/px4fmu-v2/NuttX/nuttx/sched/clock/clock_ticks2time.c&#xa;&#xa;/Users/zarathustra/Documents/CrossWorks Projects/nuttx_px4_crossworks/Firmware/build_px4fmu-v2_default/px4fmu-v2/NuttX/nuttx/sched/clock/clock_time2ticks.c&#xa;&#xa;/Users/zarathustra/Documents/CrossWorks Projects/nuttx_px4_crossworks/Firmware/build_px4fmu-v2_default/px4fmu-v2/NuttX/nuttx/sched/init/os_bringup.c&#xa;&#xa;/Users/zarathustra/Documents/CrossWorks Projects/nuttx_px4_crossworks/Firmware/build_px4fmu-v2_default/px4fmu-v2/NuttX/nuttx/sched/init/os_start.c&#xa;&#xa;init/os_start.c&#xa;&#xa;pthread/pthread_create.c&#xa;" fileDialogInitialDirectory="/Users/zarathustra/Desktop/stm32h7-autopilot/stm32h7-autopilot/cpp" debugSearchPath="" autoConnectCapabilities="3711"/>
+</session>
